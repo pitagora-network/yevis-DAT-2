@@ -1,11 +1,11 @@
 # Yevis workflow registry for DAT2-cwl
 
-This repository is a Yevis workflow registry of the [pitagora-network/DAT2-cwl](https://github.com/pitagora-network/DAT2-cwl) workflows using [Yevis-cli](https://github.com/ddbj/yevis-cli).
+This repository is a Yevis workflow registry that publishes [pitagora-network/DAT2-cwl](https://github.com/pitagora-network/DAT2-cwl) workflows using [Yevis-cli](https://github.com/ddbj/yevis-cli).
 
-You can browse workflows at [https://pitagora-network.org/yevis-DAT2-cwl-browser/](https://pitagora-network.org/yevis-DAT2-cwl-browser/).
-This web application is deployed in [pitagora-network/yevis-DAT2-cwl-browser](https://github.com/pitagora-network/yevis-DAT2-cwl-browser) using [Yevis-web](https://github.com/ddbj/yevis-web).
+You can browse the workflows at [https://pitagora-network.org/yevis-DAT2-cwl-browser/](https://pitagora-network.org/yevis-DAT2-cwl-browser/).
+This web application is deployed to [pitagora-network/yevis-DAT2-cwl-browser](https://github.com/pitagora-network/yevis-DAT2-cwl-browser) using [Yevis-web](https://github.com/ddbj/yevis-web).
 
-If you want to get workflows as TRS API, execute as follows:
+If you want to get the workflows as a TRS API, execute as follows:
 
 ```bash=
 $ curl -fsSL http://pitagora-network.org/yevis-DAT2-cwl/tools | jq .
