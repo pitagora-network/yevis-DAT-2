@@ -1,5 +1,7 @@
 # Yevis workflow registry for DAT2-cwl
 
+[![DOI](https://zenodo.org/badge/491358082.svg)](https://zenodo.org/badge/latestdoi/491358082)
+
 This repository is a Yevis workflow registry that publishes [pitagora-network/DAT2-cwl](https://github.com/pitagora-network/DAT2-cwl) workflows using [Yevis-cli](https://github.com/ddbj/yevis-cli).
 
 You can browse the workflows at [https://pitagora-network.org/yevis-DAT2-cwl-browser/](https://pitagora-network.org/yevis-DAT2-cwl-browser/).
