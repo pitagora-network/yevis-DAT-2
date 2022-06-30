@@ -32,7 +32,7 @@ $ curl -fsSL http://pitagora-network.org/yevis-DAT2-cwl/tools | jq .
         ],
         "name": "DAT2-cwl - bacteria genome workflow",
         "url": "https://pitagora-network.github.io/yevis-DAT2-cwl/tools/d03458d8-837c-4173-afa3-55ebe538b0b2/versions/1.0.0",
-        "id": "d03458d8-837c-4173-afa3-55ebe538b0b2",
+        "id": "1.0.0",
         "descriptor_type": [
           "CWL"
         ],
